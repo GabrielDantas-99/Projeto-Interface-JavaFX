@@ -1,6 +1,6 @@
 # Projeto JavaFX com JDBC 
 
-![Preview-Screens](https://github.com/GabrielDantas-99/Projeto-Interface-JavaFX/blob/master/imgs/mainview.png)
+![Preview-Screens](https://github.com/GabrielDantas-99/Projeto-Interface-JavaFX/blob/master/imgs/Group%201.png)
 
 ## Objetivo Geral:
 - Introduzir o desenvolvimento de aplicações JavaFX com JDBC
@@ -20,6 +20,8 @@
   - Main View Design
   - Main View controller
 
+![Preview-Screens](https://github.com/GabrielDantas-99/Projeto-Interface-JavaFX/blob/master/imgs/mainview.png)
+
 ## Department:
   - DepartmentList view Design
   - DepartmentList controller 
@@ -30,6 +32,8 @@
   - Saving a new Department 
   - Update / Remove department 
   - Department ComboBox
+
+![Preview-Screens](https://github.com/GabrielDantas-99/Projeto-Interface-JavaFX/blob/master/imgs/departamentolist.png)
 
 ## Initializing action as parameter
 + Checklist: 
@@ -50,6 +54,8 @@
     - model.dao 
     - model.dao.impl 
   - In DepartmentService, add DepartmentDao dependency with Factory call
+  
+![Preview-Screens](https://github.com/GabrielDantas-99/Projeto-Interface-JavaFX/blob/master/imgs/Group%201.png?raw=true)
  
 ## Observer design pattern to update tableview
   - Create interface gui.listeners.DataChangeListener 
@@ -73,6 +79,8 @@
   - Seller TableView
   - SellerForm
   - Saving Seller
+  
+![Preview-Screens](https://github.com/GabrielDantas-99/Projeto-Interface-JavaFX/blob/master/imgs/registrolista.png)
 
 ## TextField & DatePicker
 - gui.utils.Util.java 
