@@ -16,13 +16,14 @@
 + CheckList:
   - Criar FXML "MainView" (package "gui")
   - Load FXML in Main
-  - Update Main.java 
+  - Update Main.java
 
 ## Main View Design:
 + Checklist:
   - Design MainView.fxml
   - Customizar itens do menu
-  - Atualizar Main.java
+  - Atualizar Main.java </br></br>
+![Preview-Screens](https://github.com/GabrielDantas-99/Projeto-Interface-JavaFX/blob/master/imgs/mainview.png)
 
 ## Main View controller
 + CheckList:
@@ -35,4 +36,9 @@
 + Checklist:
   - Criar DepartmentList.fxml (VBox)
   - Em MainViewController.java, carregar DepartmentList
-
+ 
+## DepartmentList controller 
++ Checklist: 
+  - Criar model.entities.Department.java 
+  - Criar DepartmentListController.java 
+  - Em view, associar controller, ids, events 
